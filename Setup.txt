@@ -1,0 +1,54 @@
+				IN SPANISH
+##########################################################################################################################
+
+Buenas a todos, mi nombre es akkatrico, pueden escribirme en telegram T.ME # @akkatrico_sh
+
+	Instrucciones de instalacion:
+--------------------------------------------------------------------------
+- Devereis de entrar a la carpeta de bigsur y seleccionar todo, seguidamente arrastrarlo a la siguiente ruta : 
+--------------------------------------------------------------------------
+
+$ C:\Windows\Resources\Themes
+
+---------------------------------------------------------------------------
+- Una vez todo instalado, devereis ejecutar :
+---------------------------------------------------------------------------
+
+$ patcher.exe
+
+---------------------------------------------------------------------------------------------------------------------------------
+- En la instalacion Pulsareis todo ok, pero cuando salga reinicio ahora, devereis de pulsar en reiniciar luego, es muy IMPORTANTE.
+---------------------------------------------------------------------------------------------------------------------------------
+
+# REINICIAMOS EL EQUIPO MANUALMENTE Y YA ESTARIA. 
+
+~Para poder seleccionar el tema, buscais en windows (" temas ") y os saldran los temas. 
+
+				IN ENGLESH 
+##########################################################################################################################
+
+Hello everyone, my name is akkatrico, you can write me on telegram T.ME # @akkatrico_sh
+	
+	Installation instructions:
+
+--------------------------------------------------------------------------
+- You will have to enter the bigsur folder and select everything, then drag it to the following path:
+--------------------------------------------------------------------------
+
+$ C:\Windows\Resources\Themes
+
+---------------------------------------------------------------------------
+- Once everything is installed, you should run:
+---------------------------------------------------------------------------
+
+$ patcher.exe	
+----------------------------------------------------------------------------------------------------------------------------------------------
+- In the installation you will press everything ok, but when restart now comes out, you will have to press restart later, it is very IMPORTANT.
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+# WE RESTART THE EQUIPMENT MANUALLY AND IT WOULD BE DONE.
+
+~To be able to select the theme, you search in windows ("themes") and the themes will appear.
+
+##########################################################################################################################
